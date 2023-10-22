@@ -10,4 +10,4 @@ Learnly is an Android app designed to help you manage your learning and producti
 
 - **Statistics:** Monitor your learning progress over time. View statistics on your study sessions, including the number of completed Pomodoros and tasks.
 
-![Untitled](https://github.com/AzizHlila/Learnly-Releases/assets/81507942/9fdbedd1-f07f-41d1-ba09-1025f749095e)
+![LearnlyApp](https://github.com/AzizHlila/Learnly-Releases/assets/81507942/8c78ade8-e319-4b16-b9be-e0f51e95caf3)
